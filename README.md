@@ -40,3 +40,4 @@ I enjoy solving programming problems, learning new technologies, and building pr
 - 🗄️ Advanced SQL & Database Design
 - ⚡ JavaScript for Web Development
 - 🧩 Git & GitHub
+- Building my skills through hands-on practice
